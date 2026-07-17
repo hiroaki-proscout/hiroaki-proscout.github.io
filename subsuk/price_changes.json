@@ -1,0 +1,15 @@
+{
+  "updated": "2026-07-17",
+  "_note": "改定ニュース(Pro)のデータ源。hiron-app.github.io/subsuk/price_changes.json として公開する。主要サービスの公表改定のみ。preset_key は subsuk/Presets.swift の key と一致させること。全値上げの網羅は目的としない。",
+  "changes": [
+    {
+      "presetKey": "hulu",
+      "service": "Hulu",
+      "oldPrice": 1026,
+      "newPrice": 1320,
+      "effectiveDate": "2026-10-01",
+      "note": "月額プランの料金改定",
+      "sourceURL": null
+    }
+  ]
+}
